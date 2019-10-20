@@ -1,3 +1,5 @@
 # CNU-2019-SoftwareEngineering-TeamProject
-# Computer Science Engineering
-Professor : HyunSoo Kim
+- ChungNam National University
+- Computer Science Engineering
+- 201502023 MinKi Kim
+- Professor : HyunSoo Kim
